@@ -6,6 +6,7 @@
 - 😄 
 - ⚡ Fun fact: If I could choose a superpower, I would gain the ability of varying the susceptibility of my retina to ANY wavelength (while shooting a beam with any wavelength from my finger). Cooking would be more interesting if I could see the Raman spectra of my (vegan) sausages while they are sizzling... (and a lot more brain power to deal with the information)
 
+https://www.linkedin.com/in/renerekers/
 <!---
 RSRekers/RSRekers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
