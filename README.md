@@ -1,6 +1,6 @@
 - 👋 Hi, I’m René Rekers
 - 👀 I’m interested in everything. Sadly life is too short for learning that so I have to schedule wisely.
-- 🌱 I’m currently learning Netlogo, MD simulations
+- 🌱 I’m currently learning more about digital microstructure analysis
 - 💞️ I’m looking to collaborate on making this world a better place
 - 📫 How to reach me renerekers3@gmail.com
 - 😄 
